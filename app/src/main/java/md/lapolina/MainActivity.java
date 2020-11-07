@@ -1,5 +1,6 @@
 package md.lapolina;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -39,7 +40,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
         switch (v.getId()){
-            case R.id.addOrderButton:myTextView.setText("add prest");break;
+            case R.id.addOrderButton:
+                Intent intent = new Intent(this, AddOrderActivity.class);
+                startActivity(intent);break;
             case R.id.changeOrderButton: myTextView.setText("change prest");break;
             case R.id.removeOrderButton: myTextView.setText("remove presst");break;
             case R.id.showByDateOrdersButton: myTextView.setText(" show by dare prest");break;

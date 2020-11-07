@@ -14,5 +14,12 @@
     <string name="show_all_by_date">Показать заказы на число</string>
     <string name="show_all_avalible_orders">Показать все доступные заказы</string>
     <string name="searchOrder">поиск заказа</string>
+    <string name="TVsetData">Число</string>
+    <string name="TVSetTime">Время</string>
+    <string name="TVSetWeight">Желаемый весс</string>
+    <string name="TVinsription">Надпись на торте</string>
+    <string name="SWwithPhoto">С фото</string>
+    <string name="Support">тип упаковки</string>
+    <string name="TVAditionalComent">Дополнительные отметки</string>
 
 </resources>

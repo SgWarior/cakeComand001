@@ -15,6 +15,13 @@
     <string name="show_all_by_date">Show orders by date</string>
     <string name="show_all_avalible_orders">Show all Orders</string>
     <string name="searchOrder">searchOrder</string>
+    <string name="TVsetData">Enter the date</string>
+    <string name="TVSetTime">Enter time</string>
+    <string name="TVSetWeight">Weight of cake</string>
+    <string name="TVinsription">Inscription</string>
+    <string name="SWwithPhoto">With Photo</string>
+    <string name="Support">Support</string>
+    <string name="TVAditionalComent">Aditional coment</string>
     <!-- Strings related to login -->
 
 
