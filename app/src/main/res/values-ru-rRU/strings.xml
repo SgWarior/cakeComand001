@@ -21,5 +21,6 @@
     <string name="SWwithPhoto">С фото</string>
     <string name="Support">тип упаковки</string>
     <string name="TVAditionalComent">Дополнительные отметки</string>
+    <string name="fixDate">Зафиксировать</string>
 
 </resources>

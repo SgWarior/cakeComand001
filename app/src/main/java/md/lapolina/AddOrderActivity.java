@@ -20,7 +20,6 @@ public class AddOrderActivity extends AppCompatActivity {
     DatePickerDialog picker;
     EditText editTextDate;
     CheckBox checkBox;
-    TextView tvw;
    private final Double[] weights = {1.0, 1.5, 1.75, 2.0, 2.5, 2.75, 3.0, 3.5, 4.0, 4.5};
    private final String[] сomponents ={"Медовый","Сметаник","Poveste","Сказка","De Casa", "Napoleon"};
     @Override
